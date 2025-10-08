@@ -8,7 +8,7 @@ const client = createClient({
   useCdn: true,
   ignoreBrowserTokenWarning: true,
   token:
-    "skg2PJzuH566XiEgHT9acOtL6jCzUqdp2uvA4ynTroFCos6MIgHGHtUSHyOWmLfM8dxb90T5i7LYsZrYFwEBZo amVlSec3girfxsu9m3Rp9rK1tgbKT93Nm5EzZPRUO7sQcLcVBtRKqMLIN9o5TcYA52sZYeGgKsk8r3FkAC5ubm YgipCrXQ",
+    "skR0jDWf964OF9Tzm7YMlfru78ToaNCRdUhkxZXuBBTAJQsQ6H2aA5cynMU8TxrXs6Y4xRhAB25EyshH3a30eV8A3OrcVheFzQQLx6Xf6Qin4JraDDv1aU2T61n3ay7KGyVnZzFLYda0nIicaZ58bZWZZnRkliRh7ZSqCzAlzk8CpETYX1pH",
 });
 
 const builder = imageUrlBuilder(client);
